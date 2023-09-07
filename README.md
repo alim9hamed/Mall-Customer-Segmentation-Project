@@ -1,3 +1,6 @@
+<img src="https://www.axis.com/blog/secure-insights/wp-content/uploads/sites/11/2021/08/family_shopping_mall_parents_children_1904_780x371.jpg" alt="titanic" width="1000" height="400">
+
+
 # Mall Customer Segmentation Project using Cluster K-means Algorithm
 
 This article provides an overview of a mall customer segmentation project carried out using the powerful Cluster K-means algorithm. The dataset used in this project consisted of variables such as age, gender, annual income, and spending score. The goal was to analyze the data and identify distinct customer segments based on their characteristics. The project involved several stages, each contributing to the successful completion of the analysis. 
